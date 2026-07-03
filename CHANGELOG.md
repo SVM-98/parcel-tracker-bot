@@ -212,5 +212,5 @@ First public release candidate. Full feature set:
 - + prometheus-client ≥0.20
 - + freezegun ≥1.5 (dev only)
 
-[Unreleased]: https://github.com/SVM23-B/parcel-tracker-bot/compare/v0.3.0...HEAD
-[0.3.0]: https://github.com/SVM23-B/parcel-tracker-bot/compare/v0.2.0...v0.3.0
+[Unreleased]: https://github.com/SAM-V-MARTIN/parcel-tracker-bot/compare/v0.3.0...HEAD
+[0.3.0]: https://github.com/SAM-V-MARTIN/parcel-tracker-bot/compare/v0.2.0...v0.3.0
