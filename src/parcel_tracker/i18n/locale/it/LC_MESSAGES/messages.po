@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: parcel-tracker-bot 0.1.0\n"
-"Report-Msgid-Bugs-To: security@svm23-b.dev\n"
+"Report-Msgid-Bugs-To: SVM-98@proton.me\n"
 "POT-Creation-Date: 2026-06-04 16:21+0200\n"
 "PO-Revision-Date: 2026-05-09 23:31+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
