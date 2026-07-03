@@ -19,7 +19,7 @@ Configured manually in GitHub repo settings → **Branches → main**.
 Re-apply via the `gh` CLI if the rules are ever wiped:
 
 ```bash
-gh api -X PUT /repos/SAM-V-MARTIN/parcel-tracker-bot/branches/main/protection \
+gh api -X PUT /repos/SVM-98/parcel-tracker-bot/branches/main/protection \
   -f required_status_checks.strict=true \
   -F required_status_checks.contexts='["test (3.11)","test (3.12)","gitleaks","pip-audit"]' \
   -f enforce_admins=false \

@@ -1,5 +1,5 @@
 # English translations for parcel-tracker-bot.
-# Copyright (C) 2026 SAM-V-MARTIN
+# Copyright (C) 2026 SVM-98
 # This file is distributed under the same license as the parcel-tracker-bot
 # project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.

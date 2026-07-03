@@ -15,7 +15,7 @@ Use the GitHub issue templates:
 Requirements: Python 3.11 or 3.12, `git`, `docker compose`, `make` (optional), a Linux/macOS host.
 
 ```bash
-git clone https://github.com/SAM-V-MARTIN/parcel-tracker-bot.git
+git clone https://github.com/SVM-98/parcel-tracker-bot.git
 cd parcel-tracker-bot
 python3.12 -m venv .venv
 source .venv/bin/activate

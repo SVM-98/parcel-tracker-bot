@@ -7,7 +7,7 @@ so we can coordinate a fix and a disclosure timeline.
 
 ### Preferred — GitHub Security Advisories
 
-Open a private advisory: https://github.com/SAM-V-MARTIN/parcel-tracker-bot/security/advisories/new
+Open a private advisory: https://github.com/SVM-98/parcel-tracker-bot/security/advisories/new
 
 This creates a private space where the maintainer and you can collaborate on the fix.
 
@@ -69,4 +69,4 @@ Out of scope:
 ## Public disclosure log
 
 Public CVEs and advisories are tracked at:
-https://github.com/SAM-V-MARTIN/parcel-tracker-bot/security/advisories
+https://github.com/SVM-98/parcel-tracker-bot/security/advisories
