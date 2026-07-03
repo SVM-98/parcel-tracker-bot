@@ -28,7 +28,7 @@ jobs:
 
       - name: Tag metadata
         id: meta
-        uses: docker/metadata-action@v5
+        uses: docker/metadata-action@v6
         with:
           images: ghcr.io/svm-98/parcel-tracker-bot
           tags: |
