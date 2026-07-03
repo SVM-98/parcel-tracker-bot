@@ -13,7 +13,7 @@ This creates a private space where the maintainer and you can collaborate on the
 
 ### Alternative — direct email
 
-Email **SVM-98@proton.me** with the subject line `parcel-tracker-bot security report`.
+Report privately via the GitHub Security Advisory link above — please do not use email.
 
 Please include:
 - A description of the issue and the affected component
