@@ -30,7 +30,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: ghcr.io/svm23-b/parcel-tracker-bot
+          images: ghcr.io/svm-98/parcel-tracker-bot
           tags: |
             type=ref,event=tag
             type=semver,pattern={{version}}
@@ -66,7 +66,7 @@ jobs:
       - name: Generate SBOM
         uses: anchore/sbom-action@v0
         with:
-          image: ghcr.io/svm23-b/parcel-tracker-bot:${{ github.ref_name }}
+          image: ghcr.io/svm-98/parcel-tracker-bot:${{ github.ref_name }}
           format: spdx-json
           output-file: sbom.spdx.json
 

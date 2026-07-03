@@ -13,7 +13,7 @@ This creates a private space where the maintainer and you can collaborate on the
 
 ### Alternative — direct email
 
-Email **security@svm23-b.dev** with the subject line `parcel-tracker-bot security report`.
+Email **SVM-98@proton.me** with the subject line `parcel-tracker-bot security report`.
 
 Please include:
 - A description of the issue and the affected component
