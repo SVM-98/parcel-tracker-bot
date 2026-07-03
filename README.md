@@ -1,11 +1,11 @@
 # parcel-tracker-bot
 
-[![CI](https://github.com/SVM23-B/parcel-tracker-bot/actions/workflows/ci.yml/badge.svg)](https://github.com/SVM23-B/parcel-tracker-bot/actions/workflows/ci.yml)
-[![Security](https://github.com/SVM23-B/parcel-tracker-bot/actions/workflows/security.yml/badge.svg)](https://github.com/SVM23-B/parcel-tracker-bot/actions/workflows/security.yml)
-[![codecov](https://codecov.io/gh/SVM23-B/parcel-tracker-bot/branch/main/graph/badge.svg)](https://codecov.io/gh/SVM23-B/parcel-tracker-bot)
+[![CI](https://github.com/SAM-V-MARTIN/parcel-tracker-bot/actions/workflows/ci.yml/badge.svg)](https://github.com/SAM-V-MARTIN/parcel-tracker-bot/actions/workflows/ci.yml)
+[![Security](https://github.com/SAM-V-MARTIN/parcel-tracker-bot/actions/workflows/security.yml/badge.svg)](https://github.com/SAM-V-MARTIN/parcel-tracker-bot/actions/workflows/security.yml)
+[![codecov](https://codecov.io/gh/SAM-V-MARTIN/parcel-tracker-bot/branch/main/graph/badge.svg)](https://codecov.io/gh/SAM-V-MARTIN/parcel-tracker-bot)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![Docker](https://img.shields.io/badge/docker-ghcr.io-blue?logo=docker)](https://github.com/SVM23-B/parcel-tracker-bot/pkgs/container/parcel-tracker-bot)
+[![Docker](https://img.shields.io/badge/docker-ghcr.io-blue?logo=docker)](https://github.com/SAM-V-MARTIN/parcel-tracker-bot/pkgs/container/parcel-tracker-bot)
 
 Self-hosted Telegram bot for tracking parcels across **24+ couriers worldwide**, with a plugin
 architecture so you can add national couriers without forking the project.
@@ -30,7 +30,7 @@ architecture so you can add national couriers without forking the project.
 ## Quick start
 
 ```bash
-git clone https://github.com/SVM23-B/parcel-tracker-bot.git
+git clone https://github.com/SAM-V-MARTIN/parcel-tracker-bot.git
 cd parcel-tracker-bot
 cp .env.example .env
 # Edit .env: TELEGRAM_BOT_TOKEN (required), OWNER_ID (required), optional API keys.
@@ -72,4 +72,4 @@ for the disclosure procedure.
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Copyright © 2026 SVM23-B and contributors.
+MIT — see [LICENSE](LICENSE). Copyright © 2026 SAM-V-MARTIN and contributors.
