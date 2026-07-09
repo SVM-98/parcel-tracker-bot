@@ -78,9 +78,7 @@ def _densify(
                     ka = math.sin((1 - t) * omega) / math.sin(omega)
                     kb = math.sin(t * omega) / math.sin(omega)
                     x, y, z = ka * ax + kb * bx, ka * ay + kb * by, ka * az + kb * bz
-                    out.append(
-                        (math.degrees(math.asin(z)), math.degrees(math.atan2(y, x)))
-                    )
+                    out.append((math.degrees(math.asin(z)), math.degrees(math.atan2(y, x))))
         out.append(end)
     return out
 
